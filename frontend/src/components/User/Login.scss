@@ -1,0 +1,14 @@
+.login-container {
+    min-height: 100vh;
+
+    .login-form-container {
+        padding: 20px 40px;
+        border: 1px solid #b4bdcf;
+        border-radius: 20px;
+    }
+
+    .title {
+        font-size: larger;
+        font-weight: 600;
+    }
+}

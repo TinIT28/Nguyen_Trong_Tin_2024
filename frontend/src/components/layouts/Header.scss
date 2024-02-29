@@ -1,0 +1,23 @@
+.header-container {
+    display: flex;
+    padding: 30px 0px;
+    justify-content: space-between;
+    width: 100%;
+    height: 46px;
+    background-color: rgb(212, 212, 212);
+    position: fixed;
+    top: 0;
+
+    .avatar {
+        margin-right: 20px;
+    }
+
+    .logo {
+        margin-left: 20px;
+
+        .image-logo {
+            width: 50px;
+            height: 50px;
+        }
+    }
+}
